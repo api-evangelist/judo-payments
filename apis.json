@@ -1,0 +1,89 @@
+{
+    "name": "Judo Payments",
+    "description": "Judopay \u2013 Next generation mobile payments for an app experience your customers will love",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2173-judo-payments.jpg",
+    "tags": [
+        "api provider",
+        "api united kingdom",
+        "has api",
+        "have api",
+        "merchants",
+        "no api definition",
+        "payments"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/judo-payments\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Judo Payments",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2173-judo-payments.jpg",
+            "humanURL": "https:\/\/www.judopay.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/judo-payments-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/judo"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/judo"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/www.judopay.com\/developers\/"
+        },
+        {
+            "type": "Email",
+            "url": "hello@judopay.com"
+        },
+        {
+            "type": "Email",
+            "url": "service@judopay.com"
+        },
+        {
+            "type": "Email",
+            "url": "Help@Judopay.com"
+        },
+        {
+            "type": "Email",
+            "url": "Developersupport@Judopay.com"
+        },
+        {
+            "type": "Email",
+            "url": "Emergency@Judopay.com"
+        },
+        {
+            "type": "Email",
+            "url": "CustomerSuccess@Judopay.com"
+        },
+        {
+            "type": "Email",
+            "url": "Urgent@Judopay.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/JudoPayments"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Judopay"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.judopay.com\/"
+        }
+    ]
+}
